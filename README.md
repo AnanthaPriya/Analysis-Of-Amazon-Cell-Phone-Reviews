@@ -3,11 +3,11 @@
 
 Analysis Of Amazon Cell Phone Reviews using NLP
 
-**>> The objective of this project is to train the model to detect whether the review given by customers is positive or negative
+>> The objective of this project is to train the model to detect whether the review given by customers is positive or negative
 
-**>>Natural Language Processing(NLP) have been used to develop this application.
+>>Natural Language Processing(NLP) have been used to develop this application.
 
-**>>Web Application has been intergrated.
+>>Web Application has been intergrated.
 
 
 
